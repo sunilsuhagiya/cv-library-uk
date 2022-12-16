@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Job Search Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27.733">
+  <properties />
+  
+  
+            <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="27.733" classname="uk.co.library.testsuite.JobSearchTest" />
+      
+</testsuite>
